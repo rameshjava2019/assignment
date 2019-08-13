@@ -1,0 +1,1 @@
+INSERT INTO `customer` VALUES (1,'David'),(2,'John');
